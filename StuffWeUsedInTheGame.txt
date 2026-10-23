@@ -1,0 +1,14 @@
+Models used:
+Red Car by J-Toastie [CC-BY] via Poly Pizza
+Dump truck by jeremy [CC-BY] via Poly Pizza
+Boulder by Poly by Google [CC-BY] via Poly Pizza
+
+Audio used:
+SFX_Car_Engine_Inside_RPMMed.wav - GiocoSound - freesound.org
+boop.wav - joelle.oh.world - freesound.org
+Jingle_Win_Synth_02.wav - LittleRobotSoundFactory - freesound.org
+Loop_NeverGiveUp_05.wav - LittleRobotSoundFactory - freesound.org
+Level Up 01 - mokasza - freesound.org
+custom_rock_boulder_impact_sounds_part_3_10102025 - Artninja - freesound.org
+Car Horn Honk.wav - DeVern - freesound.org
+Life Lost Game Over - noirenex - freesound.org
