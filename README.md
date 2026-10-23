@@ -1,4 +1,8 @@
 # C.O.H.D.A.D.
-### Contributors
+## Contributors
 ### Hunter Huelsmann:
-#### Player, Collision detection + resolution, Velocity movement
+#### Player, Player Collision detection + resolution, Velocity movement
+### Kinkayde Mortell
+#### ImGUI UI, Scores
+### Christian Nelson
+#### Enemy, Projectiles
