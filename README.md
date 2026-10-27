@@ -6,3 +6,5 @@
 #### ImGUI UI, Scores
 ### Christian Nelson
 #### Enemy, Projectiles
+### Dominic Thompson
+#### Levels, Audio
